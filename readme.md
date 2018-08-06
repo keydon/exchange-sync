@@ -5,8 +5,8 @@ Exchange Sync will read data from your Exchange account and export flagged email
 Linux Usage Instructions
 ========================
 1. Create a folder in your home directory called exchange-sync.
-2. Download the [release jar](https://github.com/gdenning/exchange-sync/releases/download/1.0.7/exchangesync-1.0.7-jar-with-dependencies.jar) to ~/exchange-sync.
-3. Download the [sample properties file](https://github.com/gdenning/exchange-sync/releases/download/1.0.7/exchangesync.properties) to the same folder.
+2. Download the [release jar](https://github.com/gdenning/exchange-sync/releases/download/1.0.8/exchangesync-1.0.8-jar-with-dependencies.jar) to ~/exchange-sync.
+3. Download the [sample properties file](https://github.com/gdenning/exchange-sync/releases/download/1.0.8/exchangesync.properties) to the same folder.
 4. Modify exchangesync.properties file as follows:
     - Set exchangeHost to the hostname you usually use to access Outlook Web Access.
     - Set exchangeDomain, exchangeUsername, and exchangePassword to your Microsoft Exchange domain, username, and password.
